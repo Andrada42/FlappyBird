@@ -1,4 +1,8 @@
-# Flappy Bird
+# <img src="https://github.com/Andrada42/FlappyBird/blob/main/Icon/Pasare.png" width="40" height="40" align="center"> Flappy Bird
+
+
+https://github.com/user-attachments/assets/19acdbae-d04f-46f7-bcca-c3a77b26748a
+
 
 video game similar to Flappy Bird and a showcase site
 
